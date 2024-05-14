@@ -1,6 +1,6 @@
 ### Olá, me chamo Luiz 👋
 
-- 🔭 Atualmente estou cursando informática no IFPI.
-- 🌱 Atualmente estou estudando HTML e CSS além de PHP, este último por conta própria.
+- 🔭 Sou formado como técnico em informática pelo instituto federal do Piauí - campus Parnaíba.
+- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Softwares  no instituto federal do Piauí.
 - 📫 Pode entrar em contato comigo no email: AlveluizHenrique3@gmail.com
 
